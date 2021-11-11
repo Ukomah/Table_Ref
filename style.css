@@ -1,0 +1,44 @@
+
+body {
+    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+
+
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    border: 1px solid burlywood;
+    width: 650px;
+    margin: 0 auto;
+}
+
+table thead{
+    font-weight: bold;
+    background-color: burlywood;
+}
+
+table td{
+    border-top: 1px solid burlywood;
+    
+}
+
+footer{
+    text-align: center;
+}
+
+.first-column span{
+    background-color: white;
+    font-family: monospace;
+}
